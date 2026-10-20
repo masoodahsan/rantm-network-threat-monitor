@@ -1,0 +1,7 @@
+rantm
+*.o
+*.a
+*.so
+*.log
+core
+.DS_Store
